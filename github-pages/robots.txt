@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://yuriusvento.github.io/daily-priority/sitemap.xml
+Sitemap: https://yuriusvento.github.io/daily-priority/news-sitemap.xml

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Daily Priority</title><link>https://yuriusvento.github.io/daily-priority/</link>
+    <description>Five consequential stories a day: facts, context and direct links to sources.</description>
+    <language>en</language><atom:link href="https://yuriusvento.github.io/daily-priority/rss.xml" rel="self" type="application/rss+xml"/>
+    <lastBuildDate>Mon, 10 Aug 2026 11:00:00 GMT</lastBuildDate>
+    <item><title>Five stories that matter — August 10, 2026</title><link>https://yuriusvento.github.io/daily-priority/issues/2026-08-10/</link><guid isPermaLink="true">https://yuriusvento.github.io/daily-priority/issues/2026-08-10/</guid><pubDate>Mon, 10 Aug 2026 11:00:00 GMT</pubDate><description>AI cinema, collective intelligence, AI television, paragliding in Brazil and the August night sky.</description></item>
+  </channel>
+</rss>
